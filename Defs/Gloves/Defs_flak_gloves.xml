@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelMakeableBase" Name="CASFlakGlovesBase" Abstract="true">
+    <defName>CASFlakGloves</defName>
+    <label>tactical gloves</label>
+    <description>A pair of leather tactical gloves.</description>
+    <techLevel>Industrial</techLevel>
+    <tradeability>Sellable</tradeability>
+    <generateCommonality>0.05</generateCommonality>
+    <costStuffCount>20</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+    <statBases>
+      <MaxHitPoints>75</MaxHitPoints>
+      <WorkToMake>1000</WorkToMake>
+      <Mass>1</Mass>
+      <StuffEffectMultiplierArmor>0.15</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.3</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.7</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>1.0</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <WorkSpeedGlobal>+0.05</WorkSpeedGlobal>
+    </equippedStatOffsets>
+    <thingCategories Inherit="False">
+      <li>CASHandWear</li>
+    </thingCategories>
+    <apparel>
+      <bodyPartGroups>
+        <li>Hands</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <tags>
+        <li>IndustrialBasic</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <recipeMaker>
+      <unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>2</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakGlovesBase">
+    <defName>CASFlakGlovesArctic</defName>
+    <label>tactical gloves (Arctic)</label>
+    <description>A pair of leather tactical gloves designed for an arctic theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASHandwear/CASFlakGlovesArctic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(250,250,250)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Arctic_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakGlovesBase">
+    <defName>CASFlakGlovesDesert</defName>
+    <label>tactical gloves (Desert)</label>
+    <description>A pair of leather tactical gloves designed for a desert theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASHandwear/CASFlakGlovesDesert</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(200,180,120)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Desert_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakGlovesBase">
+    <defName>CASFlakGlovesJungle</defName>
+    <label>tactical gloves (Jungle)</label>
+    <description>A pair of leather tactical gloves designed for a jungle theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASHandwear/CASFlakGlovesJungle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(140,195,150)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Jungle_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakGlovesBase">
+    <defName>CASFlakGlovesStone</defName>
+    <label>tactical gloves (Stone)</label>
+    <description>A pair of leather tactical gloves designed for a rocky theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASHandwear/CASFlakGlovesStone</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(165,165,165)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Stone_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakGlovesBase">
+    <defName>CASFlakGlovesUrban</defName>
+    <label>tactical gloves (Urban)</label>
+    <description>A pair of leather tactical gloves designed for an urban theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASHandwear/CASFlakGlovesUrban</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(120,120,150)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Urban_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakGlovesBase">
+    <defName>CASFlakGlovesWoodland</defName>
+    <label>tactical gloves (Woodland)</label>
+    <description>A pair of leather tactical gloves designed for a woodland theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASHandwear/CASFlakGlovesWoodland</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(150,180,120)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Woodland_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>

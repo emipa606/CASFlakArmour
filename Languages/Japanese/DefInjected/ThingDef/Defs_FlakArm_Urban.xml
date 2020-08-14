@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UrbanAdvancedHelmet.label>次世代型ヘルメット(都市)</UrbanAdvancedHelmet.label>
+  <UrbanAdvancedHelmet.description>プラスチールで強化された複合素材の軽量戦闘用ヘルメットです。 殴打攻撃には効果がありません。このヘルメットは都市型迷彩で塗装されています。</UrbanAdvancedHelmet.description>
+  <UrbanFlakVest.label>防弾チョッキ(都市)</UrbanFlakVest.label>
+  <UrbanFlakVest.description>胸部と背中に装甲板が入ったチョッキです。銃撃をそらせて、胴体への刺突攻撃には非常に効果的ですが、手足を全く保護しません。この防弾チョッキは都市型迷彩の生地で覆われています。</UrbanFlakVest.description>
+  <UrbanFlakPants.label>防弾パンツ(都市)</UrbanFlakPants.label>
+  <UrbanFlakPants.description>装甲板が縫い付けられた防弾パンツです。頑丈な装甲服ほどではありませんが、あらゆる攻撃から効果的に脚部を保護しながら、非常に快適です。この防弾パンツは都市型迷彩の生地で覆われています。</UrbanFlakPants.description>
+  <UrbanFlakJacket.label>防弾ジャケット(都市)</UrbanFlakJacket.label>
+  <UrbanFlakJacket.description>装甲板が縫い付けられた頑丈な防弾ジャケットです。頑丈な装甲服ほどではありませんが、あらゆる攻撃から効果的に上半身を保護しながら、非常に快適です。この防弾ジャケットは都市型迷彩の生地で覆われています。</UrbanFlakJacket.description>
+</LanguageData>

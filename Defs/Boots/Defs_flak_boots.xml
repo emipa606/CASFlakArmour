@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelMakeableBase" Name="CASFlakBootsBase" Abstract="true">
+    <defName>CASFlakBoots</defName>
+    <label>tactical boots</label>
+    <description>A pair of sturdy leather boots.</description>
+    <techLevel>Industrial</techLevel>
+    <tradeability>Sellable</tradeability>
+    <generateCommonality>0.1</generateCommonality>
+    <costStuffCount>30</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+    <costList>
+      <Steel>4</Steel>
+    </costList>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToMake>2000</WorkToMake>
+      <Mass>2.0</Mass>
+      <StuffEffectMultiplierArmor>0.25</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.4</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.10</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>2.0</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>0.1</MoveSpeed>
+    </equippedStatOffsets>
+    <thingCategories Inherit="False">
+      <li>CASFootWear</li>
+    </thingCategories>
+    <apparel>
+      <bodyPartGroups>
+        <li>Feet</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <tags>
+        <li>IndustrialBasic</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <recipeMaker>
+      <unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>3</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakBootsBase">
+    <defName>CASFlakBootsArctic</defName>
+    <label>tactical boots (Arctic)</label>
+    <description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in an arctic theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASFootwear/CASFlakBootsArctic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(250,250,250)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Arctic_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakBootsBase">
+    <defName>CASFlakBootsDesert</defName>
+    <label>tactical boots (Desert)</label>
+    <description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in a desert theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASFootwear/CASFlakBootsDesert</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(200,180,120)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Desert_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakBootsBase">
+    <defName>CASFlakBootsJungle</defName>
+    <label>tactical boots (Jungle)</label>
+    <description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in a jungle theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASFootwear/CASFlakBootsJungle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(140,195,150)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Jungle_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakBootsBase">
+    <defName>CASFlakBootsStone</defName>
+    <label>tactical boots (Stone)</label>
+    <description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in a rocky theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASFootwear/CASFlakBootsStone</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(165,165,165)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Stone_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakBootsBase">
+    <defName>CASFlakBootsUrban</defName>
+    <label>tactical boots (Urban)</label>
+    <description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in an urban theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASFootwear/CASFlakBootsUrban</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(120,120,150)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Urban_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="CASFlakBootsBase">
+    <defName>CASFlakBootsWoodland</defName>
+    <label>tactical boots (Woodland)</label>
+    <description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in a woodland theatre.</description>
+    <graphicData>
+      <texPath>Things/Item/CASFootwear/CASFlakBootsWoodland</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(150,180,120)</color>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Woodland_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>

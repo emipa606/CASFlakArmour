@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <StoneAdvancedHelmet.label>Moderner Helm (Digital)</StoneAdvancedHelmet.label>
+  <StoneAdvancedHelmet.description>Ein leichter Kampfhelm mit einem komplexen Design, verbessert mit Plastahl. Nicht effektiv gegen stumpfe Waffen. Dieser Helm hat ein digitales Tarnmuster.</StoneAdvancedHelmet.description>
+  <StoneFlakVest.label>Schutzweste (Digital)</StoneFlakVest.label>
+  <StoneFlakVest.description>Eine Weste mit vorne und hinten eingearbeiteten Panzerplatten.Sie schützt den Körper effektiv vor Kugeln und Stichangriffen, hilft aber nicht bei Angriffen auf die Arme oder Beine. Diese Weste hat ein digitales Tarnmuster.</StoneFlakVest.description>
+  <StoneFlakPants.label>Schutzhose (Digital)</StoneFlakPants.label>
+  <StoneFlakPants.description>Eine Hose mit eingenähten Panzerplatten. Sie schützt nicht ganz so gut wie eine Solide Rüstung, ist aber dafür sehr flexibel und bequem. Diese Hose hat ein digitales Tarnmuster.</StoneFlakPants.description>
+  <StoneFlakJacket.label>Schutzjacke (Digital)</StoneFlakJacket.label>
+  <StoneFlakJacket.description>Eine Jacke mit vorne und hinten eingearbeiteten Panzerplatten. Sie schützt nicht ganz so gut vor Kugeln und Stichangriffen wie eine Solide Rüstung,ist dafür aber sehr flexibel und bequem. Diese Jacke hat ein digitales Tarnmuster.</StoneFlakJacket.description>
+</LanguageData>

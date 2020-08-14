@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArcticAdvancedHelmet.label>次世代型ヘルメット(極地)</ArcticAdvancedHelmet.label>
+  <ArcticAdvancedHelmet.description>プラスチールで強化された複合素材の軽量戦闘用ヘルメットです。 殴打攻撃には効果がありません。このヘルメットは極地型迷彩で塗装されています。</ArcticAdvancedHelmet.description>
+  <ArcticFlakVest.label>防弾チョッキ(極地)</ArcticFlakVest.label>
+  <ArcticFlakVest.description>胸部と背中に装甲板が入ったチョッキです。銃撃をそらせて、胴体への刺突攻撃には非常に効果的ですが、手足を全く保護しません。この防弾チョッキは極地型迷彩の生地で覆われています。</ArcticFlakVest.description>
+  <ArcticFlakPants.label>防弾パンツ(極地)</ArcticFlakPants.label>
+  <ArcticFlakPants.description>装甲板が縫い付けられた防弾パンツです。頑丈な装甲服ほどではありませんが、あらゆる攻撃から効果的に脚部を保護しながら、非常に快適です。この防弾パンツは極地型迷彩の生地で覆われています。</ArcticFlakPants.description>
+  <ArcticFlakJacket.label>防弾ジャケット(極地)</ArcticFlakJacket.label>
+  <ArcticFlakJacket.description>装甲板が縫い付けられた頑丈な防弾ジャケットです。頑丈な装甲服ほどではありませんが、あらゆる攻撃から効果的に上半身を保護しながら、非常に快適です。この防弾ジャケットは極地型迷彩の生地で覆われています。</ArcticFlakJacket.description>
+</LanguageData>

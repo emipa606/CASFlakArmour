@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DesertAdvancedHelmet.label>次世代型ヘルメット(砂漠)</DesertAdvancedHelmet.label>
+  <DesertAdvancedHelmet.description>プラスチールで強化された複合素材の軽量戦闘用ヘルメットです。 殴打攻撃には効果がありません。このヘルメットは砂漠型迷彩で塗装されています。</DesertAdvancedHelmet.description>
+  <DesertFlakVest.label>防弾チョッキ(砂漠)</DesertFlakVest.label>
+  <DesertFlakVest.description>胸部と背中に装甲板が入ったチョッキです。銃撃をそらせて、胴体への刺突攻撃には非常に効果的ですが、手足を全く保護しません。この防弾チョッキは砂漠型迷彩の生地で覆われています。</DesertFlakVest.description>
+  <DesertFlakPants.label>防弾パンツ(砂漠)</DesertFlakPants.label>
+  <DesertFlakPants.description>装甲板が縫い付けられた防弾パンツです。頑丈な装甲服ほどではありませんが、あらゆる攻撃から効果的に脚部を保護しながら、非常に快適です。この防弾パンツは砂漠型迷彩の生地で覆われています。</DesertFlakPants.description>
+  <DesertFlakJacket.label>防弾ジャケット(砂漠)</DesertFlakJacket.label>
+  <DesertFlakJacket.description>装甲板が縫い付けられた頑丈な防弾ジャケットです。頑丈な装甲服ほどではありませんが、あらゆる攻撃から効果的に上半身を保護しながら、非常に快適です。この防弾ジャケットは砂漠型迷彩の生地で覆われています。</DesertFlakJacket.description>
+</LanguageData>

@@ -1,26 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <CASFlakBoots.label>tactical boots</CASFlakBoots.label>
-  <CASFlakBoots.description>A pair of sturdy leather boots.</CASFlakBoots.description>
-
   <CASFlakBootsArctic.label>tactical boots (Arctic)</CASFlakBootsArctic.label>
   <CASFlakBootsArctic.description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in an arctic theatre.</CASFlakBootsArctic.description>
-
   <CASFlakBootsDesert.label>tactical boots (Desert)</CASFlakBootsDesert.label>
   <CASFlakBootsDesert.description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in a desert theatre.</CASFlakBootsDesert.description>
-
   <CASFlakBootsJungle.label>tactical boots (Jungle)</CASFlakBootsJungle.label>
   <CASFlakBootsJungle.description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in a jungle theatre.</CASFlakBootsJungle.description>
-
   <CASFlakBootsStone.label>tactical boots (Stone)</CASFlakBootsStone.label>
   <CASFlakBootsStone.description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in a rocky theatre.</CASFlakBootsStone.description>
-
   <CASFlakBootsUrban.label>tactical boots (Urban)</CASFlakBootsUrban.label>
   <CASFlakBootsUrban.description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in an urban theatre.</CASFlakBootsUrban.description>
-
   <CASFlakBootsWoodland.label>tactical boots (Woodland)</CASFlakBootsWoodland.label>
   <CASFlakBootsWoodland.description>A pair of sturdy leather boots with steel re-inforcements designed for being worn in a woodland theatre.</CASFlakBootsWoodland.description>
-
-
 </LanguageData>

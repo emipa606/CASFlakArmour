@@ -1,26 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <CASFlakGloves.label>tactical gloves</CASFlakGloves.label>
-  <CASFlakGloves.description>A pair of leather tactical gloves.</CASFlakGloves.description>
-
   <CASFlakGlovesArctic.label>tactical gloves (Arctic)</CASFlakGlovesArctic.label>
   <CASFlakGlovesArctic.description>A pair of leather tactical gloves designed for an arctic theatre.</CASFlakGlovesArctic.description>
-
   <CASFlakGlovesDesert.label>tactical gloves (Desert)</CASFlakGlovesDesert.label>
   <CASFlakGlovesDesert.description>A pair of leather tactical gloves designed for a desert theatre.</CASFlakGlovesDesert.description>
-
   <CASFlakGlovesJungle.label>tactical gloves (Jungle)</CASFlakGlovesJungle.label>
   <CASFlakGlovesJungle.description>A pair of leather tactical gloves designed for a jungle theatre.</CASFlakGlovesJungle.description>
-
   <CASFlakGlovesStone.label>tactical gloves (Stone)</CASFlakGlovesStone.label>
   <CASFlakGlovesStone.description>A pair of leather tactical gloves designed for a rocky theatre.</CASFlakGlovesStone.description>
-
   <CASFlakGlovesUrban.label>tactical gloves (Urban)</CASFlakGlovesUrban.label>
   <CASFlakGlovesUrban.description>A pair of leather tactical gloves designed for an urban theatre.</CASFlakGlovesUrban.description>
-
   <CASFlakGlovesWoodland.label>tactical gloves (Woodland)</CASFlakGlovesWoodland.label>
   <CASFlakGlovesWoodland.description>A pair of leather tactical gloves designed for a woodland theatre.</CASFlakGlovesWoodland.description>
-
-
 </LanguageData>
